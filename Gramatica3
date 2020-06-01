@@ -1,6 +1,4 @@
-S->G
 G->PG'
 G'->G|ε
 P->id:R
-R->idR'
-R'->R|ε
+R->idR|ε
